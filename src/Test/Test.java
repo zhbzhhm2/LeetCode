@@ -8,7 +8,7 @@ import Medium.*;
  */
 public class Test {
     public static void main(String[] args) {
-        Run run=new Subject5();
+        Run run=new Subject12();
         run.run();
     }
 }
